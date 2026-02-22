@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I'm currently working on Windows internals & malware analysis<br>🤝 I'm looking to collaborate on C++ and low-level systems projects<br>💛 I'm looking for help with web development<br>🌱 I'm currently learning web development (HTML/CSS/JS)<br>💬 Ask me about Windows internals, C++, malware analysis<br>⚡ Fun fact I'm a noob who somehow ended up in malware analysis
+🔨 I'm currently working on Windows internals & malware analysis<br>🤝 I'm looking to collaborate on C++ and low-level systems projects<br>💛 I'm looking for help with web development<br>🌱 I'm currently learning web development (HTML/CSS/JS)<br>💬 Ask me about Windows internals, C++, malware analysis<br>⚡ I'm a noob who somehow ended up here
 
 
 ## 🌐 Socials:
